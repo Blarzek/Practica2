@@ -11,6 +11,7 @@ public class Main {
         for (int key : vector) {
             if (histogram.containsKey(key)) {
                 histogram.put(key, histogram.get(key) + 1);
+		//--Esto es un bucle
             } else {
                 histogram.put(key, 1);
             }
