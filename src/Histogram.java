@@ -6,5 +6,6 @@ public class Histogram {
 
         System.out.println("Hello World!");
 		System.out.println("Bye creul World!");
+		System.out.println("Lo siento, me olvide algo");
     }
 }
